@@ -1,0 +1,16 @@
+[20-Jan-2018 04:57:57 UTC] PHP Warning:  include(../tmp/FilesPHP/functionPHP.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/header/head.php on line 3
+[20-Jan-2018 04:57:57 UTC] PHP Stack trace:
+[20-Jan-2018 04:57:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:0
+[20-Jan-2018 04:57:57 UTC] PHP   2. include() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:9
+[20-Jan-2018 04:57:57 UTC] PHP Warning:  include(): Failed opening '../tmp/FilesPHP/functionPHP.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/header/head.php on line 3
+[20-Jan-2018 04:57:57 UTC] PHP Stack trace:
+[20-Jan-2018 04:57:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:0
+[20-Jan-2018 04:57:57 UTC] PHP   2. include() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:9
+[20-Jan-2018 04:59:13 UTC] PHP Warning:  include(../tmp/FilesPHP/functionPHP.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/header/head.php on line 3
+[20-Jan-2018 04:59:13 UTC] PHP Stack trace:
+[20-Jan-2018 04:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:0
+[20-Jan-2018 04:59:13 UTC] PHP   2. include() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:9
+[20-Jan-2018 04:59:13 UTC] PHP Warning:  include(): Failed opening '../tmp/FilesPHP/functionPHP.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/header/head.php on line 3
+[20-Jan-2018 04:59:13 UTC] PHP Stack trace:
+[20-Jan-2018 04:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:0
+[20-Jan-2018 04:59:13 UTC] PHP   2. include() /home/ubuntu/workspace/Proyecto_IDAW/AdminWebsite/Index.php:9
